@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/ravi8x/FacebookShimmer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ucamo/JustJava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/FB" />
+    <option name="cloneParentDir" value="$USER_HOME$/Coffe" />
   </component>
 </application>
