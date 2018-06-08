@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/DesarrolloAntonio/FragmentTransactionExtended.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/senthilinfo62/PSR.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidExample/Animation" />
