@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="android.location.Geocoder.Geocoder(context)" />
+        <added pattern="android.support.v4.app.BaseFragmentActivityApi16.startActivityForResult(intent,requestCode,options)" />
       </blacklist>
     </blacklists>
   </component>
